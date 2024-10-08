@@ -14,5 +14,6 @@ function combustivel(){
     c= Number(consumo.value)
     p= Number(preco.value)
     valorfinal = (d/c)*p
-    resultado.textContent = 
+    resultado.textContent = `O valor para essa viagem será de R$ 
+    ${valorfinal.toFixed(2)}`
 }

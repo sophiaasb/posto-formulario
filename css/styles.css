@@ -9,7 +9,7 @@ body{
 }
 .central{
     width: 400px;
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.527);
     border-radius: 15px;
     padding: 20px;
     display: flex;
